@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>僕に...淹れないで</title>
+  <style>
+    @font-face {
+  font-family: 'NMG';
+  src: url('./NMG.ttf') format('truetype');
+    }
+    a {
+      text-decoration: none;
+      color: blue; /* 好きな色に変えてOK */
+    }
+    body {
+        background-color:blanchedalmond;
+        font-family: "Comic Sans MS", cursive, "NMG", sans-serif
+    }
+    h1 {
+        color:chocolate
+    }
+    p {
+        color:rgb(255, 168, 106);
+    }
+  </style>
+</head>
+<body>
+  <h1>418: I'm a teapot</h1>
+  <p>僕には...紅茶が入ってるの！</p>
+  <p>
+    「だから、僕にコーヒー淹れようとしないで！」<br>
+    「僕にコーヒーを淹れたら...！」<br>
+    「紅茶が台無し！！！！だからやめて！！」
+  </p>
+</body>
+</html>
